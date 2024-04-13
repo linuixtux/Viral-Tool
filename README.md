@@ -1,2 +1,2 @@
 # Viral-Tool
-A smart malware creator to create 26 types of malwares.
+Viral Tool is a smart easy-to-use software specially designed for one sole purpose "Create Malwares" . In this era of computers, threats have increased more then before & that's why software's like these come in handy. With this software we can create malwares in different formats. We can view & edit the source code of those malwares. Ethical Hackers can use this software in a secure way during pen testing.
